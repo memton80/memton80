@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+
+[![status](https://raw.githubusercontent.com/memton80/github-stats-transparent/output/generated/overview.svg)](#)
+[![languages](https://raw.githubusercontent.com/memton80/github-stats-transparent/output/generated/languages.svg)](#)
+
 <!--
 **memton80/memton80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
