@@ -13,6 +13,7 @@
 - J'utilise **Fedora Linux** au quotidien
 - Je fais tourner un **homelab sous Proxmox VE** : 64 cœurs et 128 Go de RAM
 - Mes données sont stockées sur un **NAS de 4 To**
+- La plupart de mes projets sont **vibe codés** : je les développe avec l'aide de l'IA
 
 <details>
 <summary><b>Mon matériel (cliquer pour déplier)</b></summary>
