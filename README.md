@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/memton80">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=51A2DA&center=true&vCenter=true&width=620&lines=Salut%2C+moi+c%27est+memton80+%F0%9F%91%8B;Fedora+au+quotidien+%F0%9F%90%A7;Homelab+Proxmox+%C2%B7+64+c%C5%93urs+%C2%B7+128+Go+%F0%9F%96%A5%EF%B8%8F" alt="Salut, moi c'est memton80" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=51A2DA&center=true&vCenter=true&width=620&lines=Salut%2C+moi+c%27est+memton80+%F0%9F%91%8B;Fedora+au+quotidien;Homelab+Proxmox+%C2%B7+64+c%C5%93urs+%C2%B7+128+Go" alt="Salut, moi c'est memton80" />
   </a>
 </p>
 
@@ -8,24 +8,24 @@
   <img src="./assets/neofetch.svg" alt="neofetch sur Fedora : OS Fedora Linux, homelab Proxmox VE, 64 cœurs, 128 Go de RAM, NAS de 4 To" width="650" />
 </p>
 
-## 🙋 À propos
+## À propos
 
-- 🐧 J'utilise **Fedora Linux** au quotidien
-- 🖥️ Je fais tourner un **homelab sous Proxmox VE** : 64 cœurs et 128 Go de RAM
-- 💾 Mes données sont stockées sur un **NAS de 4 To**
+- J'utilise **Fedora Linux** au quotidien
+- Je fais tourner un **homelab sous Proxmox VE** : 64 cœurs et 128 Go de RAM
+- Mes données sont stockées sur un **NAS de 4 To**
 
 <details>
-<summary><b>🖥️ Mon matériel (cliquer pour déplier)</b></summary>
+<summary><b>Mon matériel (cliquer pour déplier)</b></summary>
 <br />
 
 | Machine | Rôle | Caractéristiques |
 | :-- | :-- | :-- |
-| 🗄️ Serveur Proxmox | Hyperviseur (VM et conteneurs) | 64 cœurs · 128 Go de RAM |
-| 💾 NAS | Stockage réseau | 4 To |
+| Serveur Proxmox | Hyperviseur (VM et conteneurs) | 64 cœurs · 128 Go de RAM |
+| NAS | Stockage réseau | 4 To |
 
 </details>
 
-## 🛠️ Outils
+## Outils
 
 <p>
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/memton80/github-stats-transparent/output/generated/overview.svg" alt="Vue d'ensemble GitHub" />
@@ -51,7 +51,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=memton80&bg_color=00000000&color=8B949E&title_color=51A2DA&line=51A2DA&point=8B949E&area=true&area_color=51A2DA&hide_border=true&custom_title=Mes+contributions+sur+31+jours" alt="Graphique d'activité" />
 </p>
 
-## 🐍 Mes contributions… dévorées
+## Mes contributions… dévorées
 
 <p align="center">
   <picture>
